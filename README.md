@@ -23,3 +23,6 @@
  
  
 ![HTML](/html-code.png)	
+
+## License
+[MIT](http://www.opensource.org/licenses/MIT)
