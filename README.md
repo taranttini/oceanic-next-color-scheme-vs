@@ -15,7 +15,7 @@
 ## Image sample
 
 C#
-![Csharp](csharp-code.png)
+![Csharp](/csharp-code.png)
 
 HTML
-![HTML](html-code.png)	
+![HTML](/html-code.png)	
